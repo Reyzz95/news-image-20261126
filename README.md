@@ -4,6 +4,9 @@
 
 A dense, classic broadsheet newspaper front page summarizing all verified world news events from Thursday 26 November 2026 across 30 stories, UTC timelines, key statistics, and regional roundups.
 
+## How the image was made
+The 1024x1024 broadsheet front page was programmatically rendered using Python PIL with DejaVu Serif and Sans fonts, faithfully layout-engineered into cream paper backgrounds, navy/red accents, vector lead art, and precise text wrapping for all 30 verified stories.
+
 ## Run it
 ```sh
 node main.ts
